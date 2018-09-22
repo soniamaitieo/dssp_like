@@ -1,0 +1,90 @@
+TIEO Sonia
+
+
+************************************************************
+		README : dssp_like 
+************************************************************
+
+
+
+
+
+OBJECTIVE
+	Secondary structure assignment for proteins in a PDB(Protein Data Bank) file
+
+DESCRIPTION
+
+DSSP (hydrogen bond estimation algorithm) is an algorithm to calculate secondary structure to 	the amino acids of a protein, given the atomic-resolution coordinates of the protein implemented by Wolfgang Kabsch and Chris Sander.
+
+To compare the output of dssp_like, I use mkdssp. ( http://manpages.ubuntu.com/manpages/bionic/man1/dssp.1.html )
+Like mkdssp, dssp_like take for entry a protein in the PDB and return an kind of dssp format.
+
+
+
+COMMAND LINE (LINUX)
+	-------------------------------------------------------------	
+	python3 dssp_like.py -i <pdbfile.pdb> -o <outputfile.txt>
+	--------------------------------------------------------------
+
+EXAMPLE 
+	python3 dssp_like.py -i ~/dssp_like/datas/1bta.pdb -o ~/dssp_like/results/1bta_dssplike.txt
+
+
+OPTIONS
+
+-i, --input filename
+
+    The file name is a file with typical PDB format and ends with .pdb
+    This file needs atom H : if the resolution of the 3D structure doesn't catch H 
+    please add the H with reduce (http://kinemage.biochem.duke.edu/software/reduce.php) for example.
+
+
+-o, --output filename
+
+    The file name of a DSSP file ends with.pdb
+
+
+-h, --help
+
+    Print the help message and exit. 
+
+
+
+DSSP_like FORMATS
+.
+Column Name  :	Description
+RES 	     :  Residue number ( same as PDB file)
+AA	     :  The three letter code for the amino acid
+STRUCTURE    :
+	Sub.Column 1: 
+	Code 	Description
+	H 	Alpha Helix
+	B 	Beta Bridge
+	E 	Strand
+	G 	Helix-3
+	I 	Helix-5
+	T 	Turn
+	S 	Bend
+	Sub.Column 2,3,4: 
+	Three column for each of the three n-turns types (n =3, 4 and 5) with '>' if the residue can start a helix and following number  indicates helix type and '<' if residue ends the helix.
+BP1 and BP2   :	 The first and second bridge pair candidate
+
+
+DESCRIPTION OF FOLDERS and FILES INTO dssp_like
+
+
+* dssp_like/datas
+	* pdb files (1bnr.pdb , 1bta.pdb , 2qd4.pdb , 2qd4_withH.pdb) # 2qd4_withH.pdb is transformed by reduce from 2qd4.pdb
+	* mkdssp files (1bnr_dssp.txt , 1bta_dssp.txt , 2qd4_withH_dssp.txt )
+
+
+* dssp_like/results
+	* dssp_like file ( 1bnr_dssplike.txt , 1bta_dssplike.txt , 2qd4_withH_dssplike.txt )
+
+* dssp_like.py (Program)
+
+* README
+
+* reduce.3.23.130521 (executable to use if PDB file has no atom H )
+
+* TIEO_rapport_dssp.pdf

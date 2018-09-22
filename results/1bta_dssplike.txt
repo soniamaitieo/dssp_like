@@ -1,0 +1,90 @@
+RES  AA   STRUCTURE BP1 BP2
+  1 LYS               0   0
+  2 LYS  E           50   0
+  3 ALA  E           51   0
+  4 VAL  E           52   0
+  5 ILE  E           53   0
+  6 ASN  E  >  >     54   0
+  7 GLY  S  3  4      0   0
+  8 GLU  S  3  4      0   0
+  9 GLN  S  <  4      0   0
+ 10 ILE  T     <      0   0
+ 11 ARG               0   0
+ 12 SER  H     >      0   0
+ 13 ILE  H     >      0   0
+ 14 SER  H     >      0   0
+ 15 ASP  H     >      0   0
+ 16 LEU  H     <      0   0
+ 17 HIS  H     <      0   0
+ 18 GLN  H     <      0   0
+ 19 THR  H     <      0   0
+ 20 LEU  H     <      0   0
+ 21 LYS  H     <  >   0   0
+ 22 LYS  H     <  5   0   0
+ 23 GLU  H     <  5   0   0
+ 24 LEU  H     <  5   0   0
+ 25 ALA  H     <  5   0   0
+ 26 LEU  T        <   0   0
+ 27 PRO  T  >         0   0
+ 28 GLU  S  3         0   0
+ 29 TYR  S  3         0   0
+ 30 TYR  T  <         0   0
+ 31 GLY               0   0
+ 32 GLU               0   0
+ 33 ASN  H     >      0   0
+ 34 LEU  H     >      0   0
+ 35 ASP  H     >      0   0
+ 36 ALA  H     >      0   0
+ 37 LEU  H  >  <      0   0
+ 38 TRP  H  3  <      0   0
+ 39 ASP  H  3  <      0   0
+ 40 CYS  H  <  <  >   0   0
+ 41 LEU  H  >  <  5   0   0
+ 42 THR  H  3  <  5   0   0
+ 43 GLY  G  <     5   0   0
+ 44 TRP  G  <     5   0   0
+ 45 VAL  S        <   0   0
+ 46 GLU               0   0
+ 47 TYR  S            0   0
+ 48 PRO  S            0   0
+ 49 LEU  E           84   0
+ 50 VAL  E           85   2
+ 51 LEU  E           86   3
+ 52 GLU  E           87   4
+ 53 TRP  E            5   0
+ 54 ARG  E            6   0
+ 55 GLN  S     >      0   0
+ 56 PHE  G  >  4      0   0
+ 57 GLU  H  >  >      0   0
+ 58 GLN  H  3  >      0   0
+ 59 SER  H  <  <      0   0
+ 60 LYS  G  <  4  >   0   0
+ 61 GLN  H  >  <  5   0   0
+ 62 LEU  H  3  <  5   0   0
+ 63 THR  S  3     5   0   0
+ 64 GLU  S  <     5   0   0
+ 65 ASN  S        <   0   0
+ 66 GLY  H     >      0   0
+ 67 ALA  H     >      0   0
+ 68 GLU  H     >      0   0
+ 69 SER  H     >      0   0
+ 70 VAL  H     <      0   0
+ 71 LEU  H     <      0   0
+ 72 GLN  H     <      0   0
+ 73 VAL  H     <      0   0
+ 74 PHE  H     <      0   0
+ 75 ARG  H     <      0   0
+ 76 GLU  H     <      0   0
+ 77 ALA  H     <  >   0   0
+ 78 LYS  H  >  <  5   0   0
+ 79 ALA  H  3  <  5   0   0
+ 80 GLU  H  3  <  5   0   0
+ 81 GLY  S  <     5   0   0
+ 82 CYS  T        <   0   0
+ 83 ASP               0   0
+ 84 ILE  E           49   0
+ 85 THR  E           50   0
+ 86 ILE  E           51   0
+ 87 ILE  E           52   0
+ 88 LEU               0   0
+ 89 SER               0   0

@@ -1,0 +1,719 @@
+RES  AA   STRUCTURE BP1 BP2
+ 65 ARG               0   0
+ 66 LYS               0   0
+ 67 PRO               0   0
+ 68 LYS  S            0   0
+ 69 THR  E          157 184
+ 70 GLY  E          158 185
+ 71 ILE  E          159 186
+ 72 LEU  E          160 187
+ 73 MET  E          161 188
+ 74 LEU  E          162 189
+ 75 ASN  E          163   0
+ 76 MET               0   0
+ 77 GLY               0   0
+ 78 GLY               0   0
+ 79 PRO               0   0
+ 80 GLU  S            0   0
+ 81 THR  G  >         0   0
+ 82 LEU  G  >         0   0
+ 83 GLY  S  3         0   0
+ 84 ASP  H  <  >      0   0
+ 85 VAL  H  <  >      0   0
+ 86 HIS  H     >      0   0
+ 87 ASP  H     >      0   0
+ 88 PHE  H     <      0   0
+ 89 LEU  H     <      0   0
+ 90 LEU  H     <      0   0
+ 91 ARG  H     <      0   0
+ 92 LEU  H  >  <      0   0
+ 93 PHE  H  3  <      0   0
+ 94 LEU  H  3  <      0   0
+ 95 ASP  H  <  <      0   0
+ 96 ARG  S     4      0   0
+ 97 ASP  S     4      0   0
+ 98 LEU  S     4      0   0
+ 99 MET  T     <      0   0
+100 THR               0   0
+101 LEU  T  >         0   0
+102 PRO  S  3         0   0
+103 ILE  H  >  >      0   0
+104 GLN  H  <  >      0   0
+105 ASN  S  3  4      0   0
+106 LYS  H  <  >      0   0
+107 LEU  H     <      0   0
+108 ALA  H     <      0   0
+109 PRO  H     >      0   0
+110 PHE  H     <      0   0
+111 ILE  H     <      0   0
+112 ALA  H     <      0   0
+113 LYS  H     <      0   0
+114 ARG  H     <      0   0
+115 ARG  H     <      0   0
+116 THR  H     <      0   0
+117 PRO  H     >      0   0
+118 LYS  H     >      0   0
+119 ILE  H     <      0   0
+120 GLN  H     <      0   0
+121 GLU  H     <      0   0
+122 GLN  H     <      0   0
+123 TYR  H  >  <  >   0   0
+124 ARG  H  >  <  5   0   0
+125 ARG  H  3  <  5   0   0
+126 ILE  G  <     5   0   0
+127 GLY  G  <     5   0   0
+128 GLY  S        <   0   0
+129 GLY  S            0   0
+130 SER               0   0
+131 PRO  H     >      0   0
+132 ILE  H     >      0   0
+133 LYS  H     >      0   0
+134 ILE  H     >      0   0
+135 TRP  H     <      0   0
+136 THR  H     <      0   0
+137 SER  H     <      0   0
+138 LYS  H     <      0   0
+139 GLN  H     <      0   0
+140 GLY  H     <      0   0
+141 GLU  H     <      0   0
+142 GLY  H     <      0   0
+143 MET  H     <      0   0
+144 VAL  H     <      0   0
+145 LYS  H     <      0   0
+146 LEU  H  >  <      0   0
+147 LEU  H  3  <      0   0
+148 ASP  H  3  <      0   0
+149 GLU  H  <  <      0   0
+150 LEU  H     <      0   0
+151 SER  H  >  <      0   0
+152 PRO  G  >         0   0
+153 ASN  S  3         0   0
+154 THR  G  <         0   0
+155 ALA  G  <         0   0
+156 PRO  S            0   0
+157 HIS  E           69   0
+158 LYS  E           70   0
+159 TYR  E           71   0
+160 TYR  E           72   0
+161 ILE  E           73   0
+162 GLY  E           74   0
+163 PHE  E          169  75
+164 ARG  S            0   0
+165 TYR  S            0   0
+166 VAL  S            0   0
+167 HIS  S            0   0
+168 PRO  S            0   0
+169 LEU  H     >    163   0
+170 THR  H     >      0   0
+171 GLU  H     >      0   0
+172 GLU  H     >      0   0
+173 ALA  H     <      0   0
+174 ILE  H     <      0   0
+175 GLU  H     <      0   0
+176 GLU  H     <      0   0
+177 MET  H     <  >   0   0
+178 GLU  H  >  <  5   0   0
+179 ARG  H  3  <  5   0   0
+180 ASP  H  3  <  5   0   0
+181 GLY  T  <     5   0   0
+182 LEU  T        <   0   0
+183 GLU  S            0   0
+184 ARG  E          220  69
+185 ALA  E          221  70
+186 ILE  E          222  71
+187 ALA  E          223  72
+188 PHE  E          224  73
+189 THR  E           74   0
+190 GLN  S            0   0
+191 TYR               0   0
+192 PRO  S            0   0
+193 GLN  S            0   0
+194 TYR               0   0
+195 SER  T  >     >   0   0
+196 CYS  S  3     5   0   0
+197 SER  S  3     5   0   0
+198 THR  H  <  >  5   0   0
+199 THR  H     >  5   0   0
+200 GLY  H     >  <   0   0
+201 SER  H     >      0   0
+202 SER  H     <      0   0
+203 LEU  H     <      0   0
+204 ASN  H     <      0   0
+205 ALA  H     <      0   0
+206 ILE  H     <      0   0
+207 TYR  H     <      0   0
+208 ARG  H     <      0   0
+209 TYR  H     <      0   0
+210 TYR  H     <  >   0   0
+211 ASN  H     <  5   0   0
+212 GLN  H     <  5   0   0
+213 VAL  H     <  5   0   0
+214 GLY           5   0   0
+215 ARG  T        <   0   0
+216 LYS               0   0
+217 PRO               0   0
+218 THR  S            0   0
+219 MET  S            0   0
+220 LYS  E          184   0
+221 TRP  E          185   0
+222 SER  E          186   0
+223 THR  E          187   0
+224 ILE  E          188   0
+225 ASP               0   0
+226 ARG               0   0
+227 TRP  T  >         0   0
+228 PRO  S  3         0   0
+229 THR  S  3         0   0
+230 HIS  H  <  >      0   0
+231 HIS  H     >      0   0
+232 LEU  H     >      0   0
+233 LEU  H     >      0   0
+234 ILE  H     <      0   0
+235 GLN  H     <      0   0
+236 CYS  H     <      0   0
+237 PHE  H     <      0   0
+238 ALA  H     <      0   0
+239 ASP  H     <      0   0
+240 HIS  H     <      0   0
+241 ILE  H     <      0   0
+242 LEU  H     <      0   0
+243 LYS  H     <      0   0
+244 GLU  H  >  <      0   0
+245 LEU  H  >  <      0   0
+246 ASP  H  3  <      0   0
+247 HIS  G  <         0   0
+248 PHE  G  <         0   0
+249 PRO  G  >         0   0
+250 LEU  G  >         0   0
+251 GLU  S  3         0   0
+252 LYS  G  <  >      0   0
+253 ARG  G  <  4      0   0
+254 SER  S  3  4      0   0
+255 GLU  G  <  4      0   0
+256 VAL  G  <  <      0   0
+257 VAL  E          330   0
+258 ILE  E          297 331
+259 LEU  E          298 332
+260 PHE  E          299 333
+261 SER  E          300 334
+262 ALA  E          301   0
+263 HIS  E          302   0
+264 SER               0   0
+265 LEU               0   0
+266 PRO  H  >  >      0   0
+267 MET  H  3  >      0   0
+268 SER  S  3  4      0   0
+269 VAL  G  <  4  >   0   0
+270 VAL  H  >  <  5   0   0
+271 ASN  H  3  <  5   0   0
+272 ARG  G  <     5   0   0
+273 GLY  G  <     5   0   0
+274 ASP  T        <   0   0
+275 PRO  H     >      0   0
+276 TYR  H     >      0   0
+277 PRO  H     >      0   0
+278 GLN  H     >      0   0
+279 GLU  H     <      0   0
+280 VAL  H     <      0   0
+281 SER  H     <      0   0
+282 ALA  H     <      0   0
+283 THR  H     <      0   0
+284 VAL  H     <      0   0
+285 GLN  H     <      0   0
+286 LYS  H     <      0   0
+287 VAL  H     <      0   0
+288 MET  H     <  >   0   0
+289 GLU  H  >  <  5   0   0
+290 ARG  H  3  <  5   0   0
+291 LEU  H  >  <  5   0   0
+292 GLU  G  <     5   0   0
+293 TYR  S  3     <   0   0
+294 CYS  T  <         0   0
+295 ASN  S            0   0
+296 PRO               0   0
+297 TYR  E          258   0
+298 ARG  E          259   0
+299 LEU  E          260   0
+300 VAL  E          261   0
+301 TRP  E          314 262
+302 GLN  E          263   0
+303 SER               0   0
+304 LYS               0   0
+305 VAL               0   0
+306 GLY  S            0   0
+307 PRO  S            0   0
+308 MET  S            0   0
+309 PRO               0   0
+310 TRP               0   0
+311 LEU  S            0   0
+312 GLY  S            0   0
+313 PRO  S            0   0
+314 GLN  H     >    301   0
+315 THR  H     >      0   0
+316 ASP  H     >      0   0
+317 GLU  H     >      0   0
+318 SER  H     <      0   0
+319 ILE  H     <      0   0
+320 LYS  H     <      0   0
+321 GLY  H     <      0   0
+322 LEU  H  >  <  >   0   0
+323 CYS  H  >  <  5   0   0
+324 GLU  H  3  <  5   0   0
+325 ARG  H  <  <  5   0   0
+326 GLY  G  <     5   0   0
+327 ARG  T        <   0   0
+328 LYS               0   0
+329 ASN  E          364   0
+330 ILE  E          365 257
+331 LEU  E          366 258
+332 LEU  E          367 259
+333 VAL  E          260   0
+334 PRO  E          261   0
+335 ILE               0   0
+336 ALA  S            0   0
+337 PHE               0   0
+338 THR  S            0   0
+339 SER  S            0   0
+340 ASP               0   0
+341 HIS  H  >  >      0   0
+342 ILE  I  3  >  >   0   0
+343 GLU  I  3  4  >   0   0
+344 THR  I  <  4  >   0   0
+345 LEU  H     <  5   0   0
+346 TYR  I     <  >   0   0
+347 GLU  I     4  <   0   0
+348 LEU  I     4  <   0   0
+349 ASP  I     4  <   0   0
+350 ILE  I     <  >   0   0
+351 GLU  I     4  <   0   0
+352 TYR  I     4  <   0   0
+353 SER  I     4  <   0   0
+354 GLN  H     <  5   0   0
+355 VAL  I     >  <   0   0
+356 LEU  I     >  <   0   0
+357 ALA  I     >  <   0   0
+358 LYS  S  >  4  5   0   0
+359 GLU  H  3  <  5   0   0
+360 CYS  H  3  <  5   0   0
+361 GLY  H  <  <  5   0   0
+362 VAL  T        <   0   0
+363 GLU  S            0   0
+364 ASN  E          329   0
+365 ILE  E          330   0
+366 ARG  E          331   0
+367 ARG  E          332   0
+368 ALA               0   0
+369 GLU               0   0
+370 SER               0   0
+371 LEU  S  >         0   0
+372 ASN  S  3         0   0
+373 GLY  S  3         0   0
+374 ASN  H  <  >      0   0
+375 PRO  H  3  >      0   0
+376 LEU  H  3  >      0   0
+377 PHE  H  <  >      0   0
+378 SER  H     <      0   0
+379 LYS  H     <      0   0
+380 ALA  H     <      0   0
+381 LEU  H     <      0   0
+382 ALA  H     <      0   0
+383 ASP  H     <      0   0
+384 LEU  H     <      0   0
+385 VAL  H     <      0   0
+386 HIS  H     <      0   0
+387 SER  H     <      0   0
+388 HIS  H     <  >   0   0
+389 ILE  H  >  <  5   0   0
+390 GLN  H  3  <  5   0   0
+391 SER  H  3  <  5   0   0
+392 ASN  H  <  <  5   0   0
+393 GLU  T        <   0   0
+394 LEU  S            0   0
+395 CYS  S            0   0
+396 SER               0   0
+397 LYS  G  >         0   0
+398 GLN  G  >         0   0
+399 LEU  S  3         0   0
+400 THR  G  <         0   0
+401 LEU  G  <         0   0
+402 SER               0   0
+403 CYS  T  >         0   0
+404 PRO  S  3         0   0
+405 LEU  S  3         0   0
+406 CYS  T  <         0   0
+407 VAL               0   0
+408 ASN  T  >         0   0
+409 PRO  H  3  >      0   0
+410 VAL  H  3  >      0   0
+411 CYS  H  <  >      0   0
+412 ARG  H     >      0   0
+413 GLU  H     <      0   0
+414 THR  H     <      0   0
+415 LYS  H     <      0   0
+416 SER  H     <      0   0
+417 PHE  H     <      0   0
+418 PHE  H  >  <      0   0
+419 THR  H  3  <      0   0
+420 SER  H  3  <      0   0
+421 GLN  T  <         0   0
+422 GLN  S            0   0
+423 LEU  S            0   0
+424 ARG  S            0   0
+425 LYS  S            0   0
+426 PRO               0   0
+427 LYS               0   0
+428 THR  E          516 543
+429 GLY  E          517 544
+430 ILE  E          518 545
+431 LEU  E          519 546
+432 MET  E          520 547
+433 LEU  E          521 548
+434 ASN  E          522   0
+435 MET               0   0
+436 GLY               0   0
+437 GLY               0   0
+438 PRO               0   0
+439 GLU  S            0   0
+440 THR  G  >         0   0
+441 LEU  G  >         0   0
+442 GLY  S  3         0   0
+443 ASP  H  <  >      0   0
+444 VAL  H  <  >      0   0
+445 HIS  H     >      0   0
+446 ASP  H     >      0   0
+447 PHE  H     <      0   0
+448 LEU  H     <      0   0
+449 LEU  H     <      0   0
+450 ARG  H     <      0   0
+451 LEU  H  >  <      0   0
+452 PHE  H  3  <      0   0
+453 LEU  H  3  <      0   0
+454 ASP  H  <  >      0   0
+455 ARG  S  3  4      0   0
+456 ASP  S  3  4      0   0
+457 LEU  S  <  4      0   0
+458 MET  T     <      0   0
+459 THR               0   0
+460 LEU  T  >         0   0
+461 PRO  S  3         0   0
+462 ILE  H  >  >      0   0
+463 GLN  H  <  >      0   0
+464 ASN  S  3  4      0   0
+465 LYS  H  <  >      0   0
+466 LEU  H     <      0   0
+467 ALA  H     <      0   0
+468 PRO  H     >      0   0
+469 PHE  H     <      0   0
+470 ILE  H     <      0   0
+471 ALA  H     <      0   0
+472 LYS  H     <      0   0
+473 ARG  H     <      0   0
+474 ARG  H     <      0   0
+475 THR  H     <      0   0
+476 PRO  H     >      0   0
+477 LYS  H     >      0   0
+478 ILE  H     <      0   0
+479 GLN  H     <      0   0
+480 GLU  H     <      0   0
+481 GLN  H     <      0   0
+482 TYR  H  >  <  >   0   0
+483 ARG  H  >  <  5   0   0
+484 ARG  H  3  <  5   0   0
+485 ILE  G  <     5   0   0
+486 GLY  G  <     5   0   0
+487 GLY  S        <   0   0
+488 GLY  S            0   0
+489 SER               0   0
+490 PRO  H     >      0   0
+491 ILE  H     >      0   0
+492 LYS  H     >      0   0
+493 ILE  H     >      0   0
+494 TRP  H     <      0   0
+495 THR  H     <      0   0
+496 SER  H     <      0   0
+497 LYS  H     <      0   0
+498 GLN  H     <      0   0
+499 GLY  H     <      0   0
+500 GLU  H     <      0   0
+501 GLY  H     <      0   0
+502 MET  H     <      0   0
+503 VAL  H     <      0   0
+504 LYS  H     <      0   0
+505 LEU  H  >  <      0   0
+506 LEU  H  3  <      0   0
+507 ASP  H  3  <      0   0
+508 GLU  S  <  4      0   0
+509 LEU  H     <      0   0
+510 SER  H  >  <      0   0
+511 PRO  G  >         0   0
+512 ASN  S  3         0   0
+513 THR  G  <         0   0
+514 ALA  G  <         0   0
+515 PRO  S            0   0
+516 HIS  E          428   0
+517 LYS  E          429   0
+518 TYR  E          430   0
+519 TYR  E          431   0
+520 ILE  E          432   0
+521 GLY  E          433   0
+522 PHE  E          528 434
+523 ARG  S            0   0
+524 TYR  S            0   0
+525 VAL  S            0   0
+526 HIS  S            0   0
+527 PRO  S            0   0
+528 LEU  H     >    522   0
+529 THR  H     >      0   0
+530 GLU  H     >      0   0
+531 GLU  H     >      0   0
+532 ALA  H     <      0   0
+533 ILE  H     <      0   0
+534 GLU  H     <      0   0
+535 GLU  H     <      0   0
+536 MET  H     <  >   0   0
+537 GLU  H  >  <  5   0   0
+538 ARG  H  3  <  5   0   0
+539 ASP  H  3  <  5   0   0
+540 GLY  T  <     5   0   0
+541 LEU  T        <   0   0
+542 GLU  S            0   0
+543 ARG  E          579 428
+544 ALA  E          580 429
+545 ILE  E          581 430
+546 ALA  E          582 431
+547 PHE  E          583 432
+548 THR  E          433   0
+549 GLN  S            0   0
+550 TYR               0   0
+551 PRO  S            0   0
+552 GLN  S            0   0
+553 TYR               0   0
+554 SER  T  >     >   0   0
+555 CYS  S  3     5   0   0
+556 SER  S  3     5   0   0
+557 THR  H  <  >  5   0   0
+558 THR  H     >  5   0   0
+559 GLY  H     >  <   0   0
+560 SER  H     >      0   0
+561 SER  H     <      0   0
+562 LEU  H     <      0   0
+563 ASN  H     <      0   0
+564 ALA  H     <      0   0
+565 ILE  H     <      0   0
+566 TYR  H     <      0   0
+567 ARG  H     <      0   0
+568 TYR  H     <      0   0
+569 TYR  H     <  >   0   0
+570 ASN  H     <  5   0   0
+571 GLN  H     <  5   0   0
+572 VAL  H     <  5   0   0
+573 GLY           5   0   0
+574 ARG  T        <   0   0
+575 LYS               0   0
+576 PRO               0   0
+577 THR  S            0   0
+578 MET  S            0   0
+579 LYS  E          543   0
+580 TRP  E          544   0
+581 SER  E          545   0
+582 THR  E          546   0
+583 ILE  E          547   0
+584 ASP               0   0
+585 ARG               0   0
+586 TRP  T  >         0   0
+587 PRO  S  3         0   0
+588 THR  S  3         0   0
+589 HIS  H  <  >      0   0
+590 HIS  H  3  >      0   0
+591 LEU  H  3  >      0   0
+592 LEU  H  <  >      0   0
+593 ILE  H     <      0   0
+594 GLN  H     <      0   0
+595 CYS  H     <      0   0
+596 PHE  H     <      0   0
+597 ALA  H     <      0   0
+598 ASP  H     <      0   0
+599 HIS  H     <      0   0
+600 ILE  H     <      0   0
+601 LEU  H     <      0   0
+602 LYS  H     <      0   0
+603 GLU  H  >  <      0   0
+604 LEU  H  >  <      0   0
+605 ASP  H  3  <      0   0
+606 HIS  G  <         0   0
+607 PHE  G  <         0   0
+608 PRO  G  >  >      0   0
+609 LEU  G  >  4      0   0
+610 GLU  S  3  4      0   0
+611 LYS  H  <  >      0   0
+612 ARG  H  <  <      0   0
+613 SER  S  3  4      0   0
+614 GLU  G  <  4      0   0
+615 VAL  G  <  <      0   0
+616 VAL  E          689   0
+617 ILE  E          656 690
+618 LEU  E          657 691
+619 PHE  E          658 692
+620 SER  E          659 693
+621 ALA  E          660   0
+622 HIS  E          661   0
+623 SER               0   0
+624 LEU               0   0
+625 PRO  H  >  >      0   0
+626 MET  H  3  >      0   0
+627 SER  S  3  4      0   0
+628 VAL  H  <  >  >   0   0
+629 VAL  H  >  <  5   0   0
+630 ASN  H  3  <  5   0   0
+631 ARG  G  <  4  5   0   0
+632 GLY  G  <  <  5   0   0
+633 ASP  T        <   0   0
+634 PRO  H     >      0   0
+635 TYR  H     >      0   0
+636 PRO  H     >      0   0
+637 GLN  H     >      0   0
+638 GLU  H     <      0   0
+639 VAL  H     <      0   0
+640 SER  H     <      0   0
+641 ALA  H     <      0   0
+642 THR  H     <      0   0
+643 VAL  H     <      0   0
+644 GLN  H     <      0   0
+645 LYS  H     <      0   0
+646 VAL  H     <      0   0
+647 MET  H     <  >   0   0
+648 GLU  H  >  <  5   0   0
+649 ARG  H  3  <  5   0   0
+650 LEU  H  >  <  5   0   0
+651 GLU  G  <     5   0   0
+652 TYR  S  3     <   0   0
+653 CYS  T  <         0   0
+654 ASN  S            0   0
+655 PRO               0   0
+656 TYR  E          617   0
+657 ARG  E          618   0
+658 LEU  E          619   0
+659 VAL  E          620   0
+660 TRP  E          673 621
+661 GLN  E          622   0
+662 SER               0   0
+663 LYS               0   0
+664 VAL               0   0
+665 GLY  S            0   0
+666 PRO  S            0   0
+667 MET  S            0   0
+668 PRO               0   0
+669 TRP               0   0
+670 LEU  S            0   0
+671 GLY  S            0   0
+672 PRO  S            0   0
+673 GLN  H     >    660   0
+674 THR  H     >      0   0
+675 ASP  H     >      0   0
+676 GLU  H     >      0   0
+677 SER  H     <      0   0
+678 ILE  H     <      0   0
+679 LYS  H     <      0   0
+680 GLY  H     <      0   0
+681 LEU  H  >  <  >   0   0
+682 CYS  H  >  <  5   0   0
+683 GLU  H  3  <  5   0   0
+684 ARG  H  <  <  5   0   0
+685 GLY  G  <     5   0   0
+686 ARG  T        <   0   0
+687 LYS               0   0
+688 ASN  E          723   0
+689 ILE  E          724 616
+690 LEU  E          725 617
+691 LEU  E          726 618
+692 VAL  E          619   0
+693 PRO  E          620   0
+694 ILE               0   0
+695 ALA  S            0   0
+696 PHE               0   0
+697 THR  S            0   0
+698 SER  S            0   0
+699 ASP               0   0
+700 HIS  H  >  >      0   0
+701 ILE  I  3  >  >   0   0
+702 GLU  I  3  4  >   0   0
+703 THR  I  <  4  >   0   0
+704 LEU  H     <  5   0   0
+705 TYR  I     <  >   0   0
+706 GLU  I     4  <   0   0
+707 LEU  I     4  <   0   0
+708 ASP  I     4  <   0   0
+709 ILE  I     <  >   0   0
+710 GLU  I     4  <   0   0
+711 TYR  I     4  <   0   0
+712 SER  I     4  <   0   0
+713 GLN  H     <  5   0   0
+714 VAL  I     >  <   0   0
+715 LEU  I     >  <   0   0
+716 ALA  I  >  4  <   0   0
+717 LYS  H  3  <  5   0   0
+718 GLU  H  3  <  5   0   0
+719 CYS  H  <  <  5   0   0
+720 GLY           5   0   0
+721 VAL  T        <   0   0
+722 GLU  S            0   0
+723 ASN  E          688   0
+724 ILE  E          689   0
+725 ARG  E          690   0
+726 ARG  E          691   0
+727 ALA               0   0
+728 GLU               0   0
+729 SER               0   0
+730 LEU  S  >         0   0
+731 ASN  S  3         0   0
+732 GLY  S  3         0   0
+733 ASN  H  <  >      0   0
+734 PRO  H  3  >      0   0
+735 LEU  H  3  >      0   0
+736 PHE  H  <  >      0   0
+737 SER  H     <      0   0
+738 LYS  H     <      0   0
+739 ALA  H     <      0   0
+740 LEU  H     <      0   0
+741 ALA  H     <      0   0
+742 ASP  H     <      0   0
+743 LEU  H     <      0   0
+744 VAL  H     <      0   0
+745 HIS  H     <      0   0
+746 SER  H     <      0   0
+747 HIS  H     <  >   0   0
+748 ILE  H     <  5   0   0
+749 GLN  H     <  5   0   0
+750 SER  H     <  5   0   0
+751 ASN  H     <  5   0   0
+752 GLU  T        <   0   0
+753 LEU  S            0   0
+754 CYS  S            0   0
+755 SER               0   0
+756 LYS  G  >         0   0
+757 GLN  G  >         0   0
+758 LEU  S  3         0   0
+759 THR  G  <         0   0
+760 LEU  G  <         0   0
+761 SER               0   0
+762 CYS  T  >         0   0
+763 PRO  S  3         0   0
+764 LEU  S  3         0   0
+765 CYS  T  <         0   0
+766 VAL               0   0
+767 ASN  T  >         0   0
+768 PRO  H  3  >      0   0
+769 VAL  H  3  >      0   0
+770 CYS  H  <  >      0   0
+771 ARG  H     >      0   0
+772 GLU  H     <      0   0
+773 THR  H     <      0   0
+774 LYS  H     <      0   0
+775 SER  H     <      0   0
+776 PHE  H     <      0   0
+777 PHE  H  >  <      0   0
+778 THR  H  3  <      0   0
+779 SER  H  3  <      0   0
+780 GLN  T  <         0   0
+781 GLN               0   0
+782 LEU               0   0

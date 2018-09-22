@@ -1,0 +1,111 @@
+RES  AA   STRUCTURE BP1 BP2
+  1 ALA               0   0
+  2 GLN               0   0
+  3 VAL               0   0
+  4 ILE               0   0
+  5 ASN               0   0
+  6 THR  H     >      0   0
+  7 PHE  H     >      0   0
+  8 ASP  H     >      0   0
+  9 GLY  H     >      0   0
+ 10 VAL  H     <      0   0
+ 11 ALA  H     <      0   0
+ 12 ASP  H     <      0   0
+ 13 TYR  H     <      0   0
+ 14 LEU  H     <      0   0
+ 15 GLN  H     <      0   0
+ 16 THR  H     <      0   0
+ 17 TYR  H     <      0   0
+ 18 HIS  H     <      0   0
+ 19 LYS  S            0   0
+ 20 LEU               0   0
+ 21 PRO  T  >         0   0
+ 22 ASP  S  3         0   0
+ 23 ASN  S  3         0   0
+ 24 TYR  E  <        50   0
+ 25 ILE               0   0
+ 26 THR  H     >      0   0
+ 27 LYS  H  >  >      0   0
+ 28 SER  H  3  >      0   0
+ 29 GLU  H  3  >      0   0
+ 30 ALA  H  <  <      0   0
+ 31 GLN  H  >  <      0   0
+ 32 ALA  H  3  <      0   0
+ 33 LEU  H  3  <      0   0
+ 34 GLY  H  <  <      0   0
+ 35 TRP               0   0
+ 36 VAL  T  >         0   0
+ 37 ALA  S  3         0   0
+ 38 SER  S  3         0   0
+ 39 LYS  S  <         0   0
+ 40 GLY  S            0   0
+ 41 ASN  H     >      0   0
+ 42 LEU  H  >  >      0   0
+ 43 ALA  S  3  4      0   0
+ 44 ASP  S  3  4      0   0
+ 45 VAL  H  <  <      0   0
+ 46 ALA  H     <      0   0
+ 47 PRO               0   0
+ 48 GLY  S            0   0
+ 49 LYS               0   0
+ 50 SER  E           24   0
+ 51 ILE               0   0
+ 52 GLY  E           74   0
+ 53 GLY               0   0
+ 54 ASP  E           73   0
+ 55 ILE  E           72   0
+ 56 PHE  E           71   0
+ 57 SER               0   0
+ 58 ASN               0   0
+ 59 ARG  S            0   0
+ 60 GLU  S            0   0
+ 61 GLY               0   0
+ 62 LYS               0   0
+ 63 LEU  S            0   0
+ 64 PRO  S            0   0
+ 65 GLY               0   0
+ 66 LYS  T  >         0   0
+ 67 SER  S  3         0   0
+ 68 GLY  S  3         0   0
+ 69 ARG  T  <         0   0
+ 70 THR               0   0
+ 71 TRP  E           91  56
+ 72 ARG  E           90  55
+ 73 GLU  E           89  54
+ 74 ALA  E           88  52
+ 75 ASP  E           87   0
+ 76 ILE               0   0
+ 77 ASN  S            0   0
+ 78 TYR               0   0
+ 79 THR               0   0
+ 80 SER  S            0   0
+ 81 GLY  S            0   0
+ 82 PHE  S            0   0
+ 83 ARG               0   0
+ 84 ASN               0   0
+ 85 SER  S            0   0
+ 86 ASP               0   0
+ 87 ARG  E           99  75
+ 88 ILE  E           98  74
+ 89 LEU  E           97  73
+ 90 TYR  E           96  72
+ 91 SER  E  >        71   0
+ 92 SER  S  3         0   0
+ 93 ASP  S  3         0   0
+ 94 TRP  T  <         0   0
+ 95 LEU               0   0
+ 96 ILE  E           90   0
+ 97 TYR  E          108  89
+ 98 LYS  E          107  88
+ 99 THR  E           87   0
+100 THR  S            0   0
+101 ASP  S            0   0
+102 HIS  S            0   0
+103 TYR  S            0   0
+104 GLN  S            0   0
+105 THR               0   0
+106 PHE               0   0
+107 THR  E           98   0
+108 LYS  E           97   0
+109 ILE               0   0
+110 ARG               0   0
